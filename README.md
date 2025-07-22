@@ -1,3 +1,29 @@
+# Hand-Pose
+
+Hand-Pose is an innovative developer tool that enables real-time hand gesture recognition within React applications, leveraging TensorFlow.js and MediaPipe's Handpose model. It facilitates intuitive, gesture-based interactions by detecting and tracking hand landmarks through a webcam interface.
+
+---
+
+## 📌 Overview
+
+Hand-Pose simplifies the integration of computer vision and gesture recognition into your web apps.
+
+### 🔍 Why Hand-Pose?
+
+This project simplifies the integration of computer vision and gesture recognition into your web apps. The core features include:
+
+- 🎯🔍 **Hand Landmark Visualization**: Real-time rendering of hand keypoints and skeletal connections for enhanced user feedback.
+
+- 🚀🤖 **Gesture Detection**: Recognizes specific gestures like thumbs-up and victory, enabling interactive controls.
+
+- ⚙️ **Seamless React Integration**: Easily embed gesture recognition into your React workflows with optimized performance monitoring.
+
+- 🌐 **Interactive Experiences**: Supports gesture-driven UIs, virtual controls, and augmented reality applications.
+
+- 🧪 **Developer-Friendly**: Clear setup, testing, and customization options streamline development and deployment.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
